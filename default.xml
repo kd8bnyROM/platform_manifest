@@ -494,15 +494,14 @@
   
   <!-- VENDORS -->
   <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
-  <project path="vendor/cyngn" name="cyngn/android_vendor_cyngn" />
   <project path="vendor/asus" name="TheMuppets/android_vendor_asus" groups="vendor" remote="github" revision="cm-11.0" />
   <project path="vendor/lge" name="TheMuppets/android_vendor_lge" groups="vendor" remote="github" revision="cm-11.0" />
   <project path="vendor/oneplus" name="TheMuppets/android_vendor_oneplus" groups="vendor" remote="github" revision="cm-11.0" />
 
   <!-- DEVICES -->
-  <project path="device/oneplus/bacon" name="cyngn/android_device_oneplus_bacon" groups="device,bacon" />
-  <project path="device/lge/mako" name="cyngn/android_device_lge_mako" groups="device,mako" />
-  <project path="device/asus/tf300t" name="cyngnandroid_device_asus_tf300t" groups="device,tf300t"/>
+  <project path="device/oneplus/bacon" name="CyanogenMod/android_device_oneplus_bacon" groups="device,bacon" />
+  <project path="device/lge/mako" name="CyanogenMod/android_device_lge_mako" groups="device,mako" />
+  <project path="device/asus/tf300t" name="CyanogenMod/android_device_asus_tf300t" groups="device,tf300t"/>
 
 
 
